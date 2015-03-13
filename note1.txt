@@ -1,0 +1,3 @@
+This is just a note to test adding a file to the local repo and then uploading it.
+
+WARNING: Newbee Alert :)
