@@ -1,3 +1,4 @@
 This is just a note to test adding a file to the local repo and then uploading it.
 
 WARNING: Newbee Alert :)
+This message should not be in the add, but it should be in the commit
